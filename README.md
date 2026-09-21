@@ -138,18 +138,6 @@ This project demonstrates practical use of:
 * Conditional filtering
 * Data validation techniques
 
-## 📈 Key Insights
-
-Key findings from the analysis will be documented here after completing the analysis and reviewing the query results.
-
-## 📁 Project Files
-
-```text
-olist-ecommerce-sql-analysis/
-│
-├── olist_ecommerce_analysis.sql
-└── README.md
-```
 
 ## 🚀 Future Improvements
 
